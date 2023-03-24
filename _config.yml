@@ -23,11 +23,11 @@ components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: false
-        hide-platforms: qq,facebook
+        enabled: true
+        hide-platforms: qq,facebook,wechat,weibo,douban,twitter
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
@@ -79,10 +79,6 @@ navs:
 #   -
 #     href: /archives/
 #     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
 
   -
     href: /wiki/

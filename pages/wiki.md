@@ -9,7 +9,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 生有涯，学无涯，有涯穷无涯
 
 {% case site.components.wiki.view %}
 

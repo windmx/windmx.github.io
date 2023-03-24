@@ -1,19 +1,27 @@
-- name: Software Engineer Keywords
+- name: Property
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Suzuki Jimny 2011
+      - Apple: Macbook|iPhone|iPad|Mac Mini
+      - Android: Motorola X|Oneplus 7T 
+      - Sony A7RM3
+      - DJI Mavic Air|OSMO
+      - ASICS Sneaker Collector
 
-- name: Mobile Developer Keywords
+- name: 合作方向
   keywords:
-      - Android
-      - Reverse Engineering
+      - Business Plan 制作
+      - FA：融资咨询
+      - 项目投后管理
+      - 不良资产处置
+      - 保险行业
+      - 流量变现
+      - 电商代运营
+      - Digital Marketing
 
-- name: Windows Developer Keywords
+- name: 投资领域
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - 半导体
+      - 消费
+      - 软件与游戏
+      - 美股
+      - A股

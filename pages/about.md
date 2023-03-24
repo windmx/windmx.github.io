@@ -10,7 +10,11 @@ permalink: /about/
 
 VC从业者，热爱捣鼓研究
 
-Suzuki Jimny 车主
+拥有一辆Suzuki Jimny
+
+朴树｜伍佰 & China Blue 二十年老粉
+
+INFP｜天蝎座
 
 ## 联系
 
