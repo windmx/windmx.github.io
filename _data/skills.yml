@@ -1,16 +1,20 @@
-- name: Property
+- name: 我的玩具🪀
   keywords:
-      - Suzuki Jimny 2011
-      - Apple: Macbook|iPhone|iPad|Mac Mini
-      - Android: Motorola X|Oneplus 7T 
+      - Suzuki Jimny
+      - Macbook Pro
+      - iPhone
+      - iPad
+      - Mac Mini
+      - Motorola X
+      - Oneplus 7T 
       - Sony A7RM3
       - DJI Mavic Air|OSMO
-      - ASICS Sneaker Collector
+      - ASICS Sneaker
 
-- name: 合作方向
+- name: 合作方向📅
   keywords:
       - Business Plan 制作
-      - FA：融资咨询
+      - 融资咨询
       - 项目投后管理
       - 不良资产处置
       - 保险行业
