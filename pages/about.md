@@ -8,9 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-VC从业者，热爱捣鼓研究
+VC从业者
 
-拥有一辆Suzuki Jimny
+拥有一辆 SUZUKI JIMNY
 
 朴树｜伍佰 & China Blue 二十年老粉
 
