@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> 桃花潭水深千尺 不及汪伦送我情
 
 <ul>
 {% for link in site.data.links %}
