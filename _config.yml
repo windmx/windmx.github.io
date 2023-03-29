@@ -135,10 +135,10 @@ comments_provider: giscus
 # !!!Important!!! Please modify infos below to yours
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: 
-    repo-id: 
-    category: 
-    category-id: 
+    repo: windmx/windmx.github.io 
+    repo-id: R_kgDOJN5nvw 
+    category: Announcements
+    category-id: DIC_kwDOJN5nv84CVIFV 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
