@@ -7,10 +7,11 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
+情感的乐观主义者，历史的悲观主义者
 
-VC从业者
+VC从业人员，移动互联网第一代原住民
 
-拥有一辆 SUZUKI JIMNY
+拥有一辆 SUZUKI Jimny
 
 朴树｜伍佰 & China Blue 二十年老粉
 
